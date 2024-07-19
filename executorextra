@@ -4,7 +4,7 @@ local function initui()
 
 	-- StarterGui.SimpleBypass
 	G2L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"));
-	G2L["1"]["Name"] = [[SimpleBypass]];
+	G2L["1"]["Name"] = [[Extra"]];
 
 	-- StarterGui.SimpleBypass.UI
 	G2L["2"] = Instance.new("Frame", G2L["1"]);
